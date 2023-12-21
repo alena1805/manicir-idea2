@@ -1,0 +1,9 @@
+#image-container {
+    text-align: center;
+    margin-top: 20px;
+}
+
+#random-image {
+    max-width: 500px;
+    max-height: 500px;
+}
